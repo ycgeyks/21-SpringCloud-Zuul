@@ -1,0 +1,3 @@
+# Project exclude paths
+/zuul-first-router/target/
+/zuul-first-source/target/
